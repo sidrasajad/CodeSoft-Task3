@@ -10,7 +10,7 @@ A simple calculator built using HTML, CSS, and JavaScript. This project was deve
 
 ## Screenshots
 
-![Calculator Screenshot](image/Calculator.png)
+![Calculator Screenshot](image/Calculator.PNG)
 
 ## Technologies Used
 
